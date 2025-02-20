@@ -1,27 +1,21 @@
 body {
-  background-color: lightblue;
+  background-color: #c2b0ff;
   margin-top: 15px;
     margin-left: 15px;
 }
 
 h1 {
-  color: darkblue;
+  color: #011fb5;
   text-align: left;
   font-family: georgia;
 }
 
-h2 {
-  color: darkblue;
+p {
+  color: #011fb5;
   text-align: left;
   font-size: 17px;
-  margin-top: -10px;
+  margin-top: 40px;
   font-family: georgia;
-}
-
-p {margin-top: 40px;
-  font-family: georgia;
-  font-size: 17px;
-  text-align: left;
 }
 
 img {
